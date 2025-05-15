@@ -1,5 +1,7 @@
-🌟 Join Our Revolution in High-Speed Delivery
-<div align="center"> ## 📋 Legal Information <table> <tr> <td width="50%">
+<div align="center"> Join Our Revolution in High-Speed Delivery
+
+  
+<div align="center"> Legal Information <table> <tr> <td width="50%">
 Intellectual Property Notice
 This codebase is proprietary and confidential. All intellectual property rights, including patents, trademarks, trade secrets, and copyrights are owned by LIFT Technologies, Inc.
 
@@ -18,26 +20,15 @@ Security Disclosure: To report security vulnerabilities, please contact security
 Third-Party Licenses: Where applicable, third-party open source components are used in accordance with their respective licenses as documented in THIRD_PARTY_LICENSES.md.
 
 </td> </tr> </table>
-<div align="center"> <img src="/api/placeholder/900/100" alt="LIFT Footer" /> <p><strong>LIFT Technologies, Inc.</strong> | Pushing the Boundaries of Speed and Innovation</p> <p> <a href="https://github.com/LIFT-org"><img src="https://img.shields.io/badge/GitHub-Organization-181717?style=for-the-badge&logo=github" alt="GitHub"></a> <a href="https://lift.tech"><img src="https://img.shields.io/badge/Website-lift.tech-00A0D1?style=for-the-badge" alt="Website"></a> <a href="https://linkedin.com/company/lift-tech"><img src="https://img.shields.io/badge/LinkedIn-LIFT-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a> </p> </div> <tr> <td width="50%" align="center"> <img src="/api/placeholder/400/250" alt="LIFT Drone in Action" /> <h3>Engineering the Future of Logistics</h3> <p>"The future of logistics isn't trucks, it's thrust."</p> </td> <td width="50%" align="center"> <img src="/api/placeholder/400/250" alt="LIFT Global Impact" /> <h3>Changing How the World Delivers</h3> <p>Connecting communities at unprecedented speeds.</p> </td> </tr> </table> </div>
-📋 Legal Information
-<table><div align="center"> <img src="/api/placeholder/1000/200" alt="LIFT Logo Banner" />
-LIFT 🚀
-Redefining the Boundaries of Fast Logistics with High-Speed Drone Technology
-
-Show Image
-Show Image
-Show Image
-Show Image
-
-<img src="/api/placeholder/900/400" alt="LIFT Drone Fleet" />
-"The future of logistics isn't trucks, it's thrust."
+<div align="center"> <img src="/api/placeholder/900/100" alt="LIFT Footer" /> <p><strong>LIFT Technologies, Inc.</strong> | Pushing the Boundaries of Speed and Innovation</p> <p> <a href="https://github.com/LIFT-org"><img src="https://img.shields.io/badge/GitHub-Organization-181717?style=for-the-badge&logo=github" alt="GitHub"></a> <a href="https://lift.tech"><img src="https://img.shields.io/badge/Website-lift.tech-00A0D1?style=for-the-badge" alt="Website"></a> <a href="https://linkedin.com/company/lift-tech"><img src="https://img.shields.io/badge/LinkedIn-LIFT-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a> </p> </div> <tr> <td width="50%" align="center"> <img src="/api/placeholder/400/250" alt="LIFT Drone in Action" /> <h3>Engineering the Future of Logistics</h3> <p>"The future of logistics isn't trucks, it's thrust."</p> </td> <td width="50%" align="center"> <img src="/api/placeholder/400/250" alt="LIFT Global Impact" /> </td> </tr> </table> </div>
 
 </div>
-🔍 Mission & Vision
+<div align="center">🔍 Mission & Vision
 <table> <tr> <td width="50%">
-Our Mission
+Our Mission -
 To develop a high-speed delivery system through drone technology capable of delivering packages at speeds exceeding 100 km/h, making same-hour regional logistics and cross-border express delivery a reality.
 
 </td> <td width="50%">
-Our Vision
-To become the fastest delivery company in the world, leading the future of air logistics and establishing the infrastructure for reliable international drone delivery.
+Our Vision -
+To become the fastest delivery company in the world, leading the future of air
+logistics and establishing the infrastructure for reliable international drone delivery.
